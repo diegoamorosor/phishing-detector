@@ -6,7 +6,7 @@
 <h1 align="center"> Phishing URL Detector</h1>
 
 <p align="center">
-  <a href="www.phishingdetector.diegoamoroso.com">🔗 Try  Phishing Detector Now</a>
+  <a href="https://phishingdetector.diegoamoroso.com/">🔗 Try  Phishing Detector Now</a>
 </p>
 
 Phishing Detector is a web tool that analyzes the **risk level of any URL** in real time. Paste a link and instantly receive a full evaluation: security score, detected suspicious patterns, structural metrics, and a detailed explanation of potential phishing indicators.
